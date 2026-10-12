@@ -1,4 +1,4 @@
-[← Chapitre précédent](01-introduction-frameworks.md) · [Sommaire](README.md) · [Chapitre suivant →](03-environnement-tooling.md)
+[← Chapitre précédent](01-introduction-frameworks.md) · [Sommaire](Readme.md) · [Chapitre suivant →](03-environnement-tooling.md)
 
 ---
 
@@ -644,4 +644,4 @@ Logs : `Stagiairon`, puis les deux messages d'erreur.
 
 ---
 
-[← Chapitre précédent](01-introduction-frameworks.md) · [Sommaire](README.md) · [Chapitre suivant →](03-environnement-tooling.md)
+[← Chapitre précédent](01-introduction-frameworks.md) · [Sommaire](Readme.md) · [Chapitre suivant →](03-environnement-tooling.md)

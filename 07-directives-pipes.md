@@ -1,4 +1,4 @@
-[← Chapitre précédent](06-services-http.md) · [Sommaire](README.md) · [Chapitre suivant →](08-routing.md)
+[← Chapitre précédent](06-services-http.md) · [Sommaire](Readme.md) · [Chapitre suivant →](08-routing.md)
 
 ---
 
@@ -565,4 +565,4 @@ Vérification : ajoutez temporairement `DecimalPipe` et `PercentPipe` (de `@angu
 
 ---
 
-[← Chapitre précédent](06-services-http.md) · [Sommaire](README.md) · [Chapitre suivant →](08-routing.md)
+[← Chapitre précédent](06-services-http.md) · [Sommaire](Readme.md) · [Chapitre suivant →](08-routing.md)

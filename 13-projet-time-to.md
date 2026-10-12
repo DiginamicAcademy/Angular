@@ -1,4 +1,4 @@
-[← Chapitre précédent](12-securite-build-deploiement.md) · [Sommaire](README.md)
+[← Chapitre précédent](12-securite-build-deploiement.md) · [Sommaire](Readme.md)
 
 ---
 
@@ -298,4 +298,4 @@ Une fois le projet terminé, comparez vos choix avec la réalisation fournie dan
 
 ---
 
-[← Chapitre précédent](12-securite-build-deploiement.md) · [Sommaire](README.md)
+[← Chapitre précédent](12-securite-build-deploiement.md) · [Sommaire](Readme.md)

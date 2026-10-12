@@ -1,4 +1,4 @@
-[← Chapitre précédent](08-routing.md) · [Sommaire](README.md) · [Chapitre suivant →](10-formulaires.md)
+[← Chapitre précédent](08-routing.md) · [Sommaire](Readme.md) · [Chapitre suivant →](10-formulaires.md)
 
 ---
 
@@ -444,4 +444,4 @@ Résultat : avec Tabulis et Requêtor, « Mon équipe (2/6) », « Couverture : 
 
 ---
 
-[← Chapitre précédent](08-routing.md) · [Sommaire](README.md) · [Chapitre suivant →](10-formulaires.md)
+[← Chapitre précédent](08-routing.md) · [Sommaire](Readme.md) · [Chapitre suivant →](10-formulaires.md)
