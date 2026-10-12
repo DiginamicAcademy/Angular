@@ -1,4 +1,4 @@
-[← 02 · TypeScript](02-typescript.md) · [Sommaire](README.md)
+[← Chapitre précédent](02-typescript.md) · [Sommaire](README.md) · [Chapitre suivant →](04-conception.md)
 
 ---
 
@@ -472,4 +472,4 @@ Vérifiez ensuite avec `--dry-run`.
 
 ---
 
-[← 02 · TypeScript](02-typescript.md) · [Sommaire](README.md) · [04 · Conception →](04-conception.md)
+[← Chapitre précédent](02-typescript.md) · [Sommaire](README.md) · [Chapitre suivant →](04-conception.md)

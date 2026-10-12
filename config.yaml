@@ -1,0 +1,14 @@
+course:
+  name: "Angular"
+  RNCP:
+    - RNCP37674
+    - RNCP37873
+  RNCPBloc: []
+  timing: 5
+
+credits:
+  authors:
+    - name: Jean-François Vial
+      github:
+        - JeffDiginamic
+        - j33f

@@ -1,4 +1,4 @@
-[← 05 · Composants et signaux](05-composants-signaux.md) · [Sommaire](README.md)
+[← Chapitre précédent](05-composants-signaux.md) · [Sommaire](README.md) · [Chapitre suivant →](07-directives-pipes.md)
 
 ---
 
@@ -963,4 +963,4 @@ Voir `app.ts` et `app.html` dans la correction de l'exercice 1 : `App` injecte `
 
 ---
 
-[← 05 · Composants et signaux](05-composants-signaux.md) · [Sommaire](README.md) · [07 · Directives et pipes →](07-directives-pipes.md)
+[← Chapitre précédent](05-composants-signaux.md) · [Sommaire](README.md) · [Chapitre suivant →](07-directives-pipes.md)

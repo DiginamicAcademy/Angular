@@ -1,4 +1,4 @@
-[← 04 · Conception](04-conception.md) · [Sommaire](README.md)
+[← Chapitre précédent](04-conception.md) · [Sommaire](README.md) · [Chapitre suivant →](06-services-http.md)
 
 ---
 
@@ -766,4 +766,4 @@ Résultat : « Junior (180 points) » pour Stagiairon, « Confirmé (310 points)
 
 ---
 
-[← 04 · Conception](04-conception.md) · [Sommaire](README.md) · [06 · Services, injection et HTTP →](06-services-http.md)
+[← Chapitre précédent](04-conception.md) · [Sommaire](README.md) · [Chapitre suivant →](06-services-http.md)

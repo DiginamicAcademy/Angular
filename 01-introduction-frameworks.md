@@ -1,4 +1,4 @@
-[← Sommaire](README.md)
+[Sommaire](README.md) · [Chapitre suivant →](02-typescript.md)
 
 ---
 
@@ -320,4 +320,4 @@ bootstrapApplication(CoffeeCounter);
 
 ---
 
-[← Sommaire](README.md) · [02 · TypeScript →](02-typescript.md)
+[Sommaire](README.md) · [Chapitre suivant →](02-typescript.md)

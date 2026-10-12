@@ -1,4 +1,4 @@
-[← 09 · État, persistance et architecture](09-etat-persistance-architecture.md) · [Sommaire](README.md)
+[← Chapitre précédent](09-etat-persistance-architecture.md) · [Sommaire](README.md) · [Chapitre suivant →](11-tests.md)
 
 ---
 
@@ -658,4 +658,4 @@ export const routes: Routes = [
 
 ---
 
-[← 09 · État, persistance et architecture](09-etat-persistance-architecture.md) · [Sommaire](README.md) · [11 · Tests →](11-tests.md)
+[← Chapitre précédent](09-etat-persistance-architecture.md) · [Sommaire](README.md) · [Chapitre suivant →](11-tests.md)

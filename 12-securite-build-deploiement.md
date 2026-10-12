@@ -1,4 +1,4 @@
-[← 11 · Tests](11-tests.md) · [Sommaire](README.md)
+[← Chapitre précédent](11-tests.md) · [Sommaire](README.md) · [Chapitre suivant →](13-projet-time-to.md)
 
 ---
 
@@ -492,4 +492,4 @@ npx ng generate @angular/core:service
 
 ---
 
-[← 11 · Tests](11-tests.md) · [Sommaire](README.md) · [13 · Projet Time To →](13-projet-time-to.md)
+[← Chapitre précédent](11-tests.md) · [Sommaire](README.md) · [Chapitre suivant →](13-projet-time-to.md)

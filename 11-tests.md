@@ -1,4 +1,4 @@
-[← 10 · Formulaires](10-formulaires.md) · [Sommaire](README.md)
+[← Chapitre précédent](10-formulaires.md) · [Sommaire](README.md) · [Chapitre suivant →](12-securite-build-deploiement.md)
 
 ---
 
@@ -921,4 +921,4 @@ Résultat, avec tous les fichiers : `Test Files 12 passed (12)` et `Tests 65 pas
 
 ---
 
-[← 10 · Formulaires](10-formulaires.md) · [Sommaire](README.md) · [12 · Sécurité, build et déploiement →](12-securite-build-deploiement.md)
+[← Chapitre précédent](10-formulaires.md) · [Sommaire](README.md) · [Chapitre suivant →](12-securite-build-deploiement.md)

@@ -1,4 +1,4 @@
-[← 03 · Les outils et la création du projet](03-environnement-tooling.md) · [Sommaire](README.md)
+[← Chapitre précédent](03-environnement-tooling.md) · [Sommaire](README.md) · [Chapitre suivant →](05-composants-signaux.md)
 
 ---
 
@@ -292,4 +292,4 @@ Chacun de ces scénarios deviendra un cas du plan de tests de la phase 11, et la
 
 ---
 
-[← 03 · Les outils et la création du projet](03-environnement-tooling.md) · [Sommaire](README.md) · [05 · Composants et signaux →](05-composants-signaux.md)
+[← Chapitre précédent](03-environnement-tooling.md) · [Sommaire](README.md) · [Chapitre suivant →](05-composants-signaux.md)

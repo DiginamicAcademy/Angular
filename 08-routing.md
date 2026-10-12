@@ -1,4 +1,4 @@
-[← 07 · Directives et pipes](07-directives-pipes.md) · [Sommaire](README.md)
+[← Chapitre précédent](07-directives-pipes.md) · [Sommaire](README.md) · [Chapitre suivant →](09-etat-persistance-architecture.md)
 
 ---
 
@@ -860,4 +860,4 @@ Avec `on interaction`, le contenu n'apparaît qu'après un clic ou une touche **
 
 ---
 
-[← 07 · Directives et pipes](07-directives-pipes.md) · [Sommaire](README.md) · [09 · État, persistance et architecture →](09-etat-persistance-architecture.md)
+[← Chapitre précédent](07-directives-pipes.md) · [Sommaire](README.md) · [Chapitre suivant →](09-etat-persistance-architecture.md)
