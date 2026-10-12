@@ -6,7 +6,15 @@ Chaque dev a un numéro, un ou deux types (front-end, back-end, DevOps, data, mo
 
 Il n'y a rien à télécharger pour commencer : le projet Pokedev est créé puis complété pas à pas, phase après phase.
 
-Le cours se termine par **Time To**, un projet à réaliser en autonomie : une application qui trouve le meilleur créneau de la semaine pour une activité d'extérieur.
+---
+
+## Ce que comprend le cours
+
+- **Pokedev, le projet fil rouge.** Les chapitres 01 à 12, dans ce dépôt : chaque notion est présentée, puis mise en œuvre sur le projet.
+- **La boîte à outils Angular 22.** Douze fiches, une par notion (composant, routeur, signaux, services, HTTP, tests…), et un mémo de génération de code. Chaque fiche résume l'essentiel et renvoie au chapitre du cours qui détaille la notion : à garder ouverte pendant tout le cours. Dépôt : [github.com/DiginamicAcademy/Angular22-toolbox](https://github.com/DiginamicAcademy/Angular22-toolbox)
+- **Le projet de démo pas à pas.** Une application de listes de tâches, construite de zéro en douze étapes face à un petit serveur Java fourni. Chaque dossier contient le projet complet à la fin d'une étape, avec l'explication de ce qui a changé : les notions du cours sur un second exemple, plus simple. Il emploie parfois d'autres outils que Pokedev, comme `[(ngModel)]` ou `HttpClient` : des variantes à savoir lire. Dépôt : [github.com/DiginamicFormation/angular22-zero](https://github.com/DiginamicFormation/angular22-zero)
+- **Time To, le projet d'entraînement, facultatif.** Une application complète à réaliser seul à partir d'un cahier des charges, pour s'exercer en autonomie après le chapitre 12. Il n'est pas noté. Chapitre : [13 · Projet Time To](13-projet-time-to.md)
+- **Le TP noté.** La caisse enregistreuse d'un food truck : le serveur Java est fourni, vous réalisez l'application Angular. Le sujet est dans le fichier `ENONCE.md`. Dépôt : [github.com/DiginamicAcademy/TP-Angular22](https://github.com/DiginamicAcademy/TP-Angular22)
 
 ---
 
@@ -26,12 +34,12 @@ Le cours se termine par **Time To**, un projet à réaliser en autonomie : une a
 | 10 | [Formulaires](10-formulaires.md) | Signal Forms, validation, validation croisée, debounce, `viewChild`, garde de sortie |
 | 11 | [Tests](11-tests.md) | Vitest, tests unitaires, tests de services, de requêtes HTTP et de composants, couverture |
 | 12 | [Sécurité, build et déploiement](12-securite-build-deploiement.md) | XSS, CSP, build de production, CI/CD, GitHub Pages, lecture de code historique |
-| 13 | [Projet Time To](13-projet-time-to.md) | Cahier des charges du projet réalisé en autonomie |
+| 13 | [Projet Time To](13-projet-time-to.md) | Facultatif. Projet d'entraînement en autonomie : cahier des charges, méthode et jalons |
 
 | Ressource | Contenu |
 |---|---|
 | [pokedev-corriges.zip](pokedev-corriges.zip) | Les corrigés : le projet Pokedev tel qu'il doit être à la fin de chaque phase (`fin-phase-03` à `fin-phase-12` ; la phase 04 ne produit pas de code). À n'ouvrir qu'en cas de blocage, ou pour reprendre le cours à une étape précise. Dans un dossier : `npm install`, puis `npx ng serve`. |
-| [time-to-corrige.zip](time-to-corrige.zip) | Une réalisation possible du projet Time To. |
+| [time-to-corrige.zip](time-to-corrige.zip) | Une réalisation possible du projet Time To, à comparer avec la vôtre après avoir essayé. |
 
 ---
 
@@ -49,6 +57,7 @@ Angular publie une version majeure environ tous les six mois. La commande `npm v
 - Git et un compte GitHub.
 - VS Code avec l'extension *Angular Language Service*.
 - Un navigateur Chromium ou Firefox avec l'extension *Angular DevTools*.
+- Pour le projet de démo et le TP noté, dont le serveur est en Java : un JDK 21 ou plus récent. Maven n'est pas nécessaire : chaque serveur le télécharge au premier lancement.
 
 ---
 
